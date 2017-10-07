@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20687137SinghP3</string>
+    <string name="title_activity_application">Application</string>
+    <string name="title_activity_chat__room">Chat_Room</string>
+    <string name="title_activity_create_group">CreateGroup</string>
+    <string name="title_activity_practice">Practice</string>
+</resources>

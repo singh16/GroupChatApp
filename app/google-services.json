@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "5371617958",
+    "firebase_url": "https://hakam-29071.firebaseio.com",
+    "project_id": "hakam-29071",
+    "storage_bucket": "hakam-29071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5371617958:android:a39cc3adbb20d9f6",
+        "android_client_info": {
+          "package_name": "hakamsingh.example.com.a20687137singhp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5371617958-v07ff5a2anvuebqhodbl9pdfqad6e92o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-XrihAjEGk7_ohDLKwH0rSUnWDB70nSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
